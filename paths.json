@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/jake-eds/:/",
-    "/content/jake-eds/configuration:/.helix/config.json",
-    "/content/jake-eds/metadata:/metadata.json"
+    "/content/eds-jake/:/",
+    "/content/eds-jake/configuration:/.helix/config.json",
+    "/content/eds-jake/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/jake-eds/"
+    "/content/eds-jake/"
   ]
 }
